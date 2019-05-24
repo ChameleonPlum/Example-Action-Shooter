@@ -1,0 +1,7 @@
+{
+  "type":  1,
+  "damage": 1,
+  "attackSpeed": 20,
+  "attackRange": 20,
+  "reloadCoolDown": 3
+}
